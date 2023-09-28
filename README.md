@@ -1,8 +1,8 @@
 # ShanuPanchal
 About Me
 
-Hi there !
-it's Shanu Panchal  
+✋ Hi there ! 
+it's Shanu Panchal 
  
 About Me
 

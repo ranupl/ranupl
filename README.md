@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 </h1><a href="https://www.linkedin.com/in/shanupl/"><img src="https://img.shields.io/badge/-Ranu%20Panchal-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a></h1>
 <h1><a href="mailto:ranupl542011@gmail.com"><img src="https://img.shields.io/badge/-ranu542011@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></h1>
 

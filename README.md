@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   **Algorithms and problem solving**
 
 - 🌐 &nbsp;
-  ![Node Js](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Node Js](https://img.shields.io/badge/-Java-333333?style=flat&logo=Node Js)
   ![Express Js](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)

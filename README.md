@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;About Me
 
-- 😄 &nbsp; I am a diligent and time-conscious individual, a perpetual learner with a fervent passion for development.I am eager to cultivate further technical expertise. I approach my work with sincerity and a deep love for learning.
+- 😄 &nbsp; I am a diligent and time-conscious individual, a perpetual learner with a fervent passion for development. I am eager to cultivate further technical expertise. I approach my work with sincerity and a deep love for learning.
 - 🎓 &nbsp; Mathematics graduate (Vikaram University)👩‍💻
 
 ### 🛠 &nbsp;Tech Stack
@@ -63,7 +63,6 @@ Here are some ideas to get you started:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<!-- <h1><a href="https://twitter.com/thevickypl"><img src="https://img.shields.io/badge/-thevickypl-D14836?style=flat-square&logo=twitter&logoColor=blue"/></a></h1> -->
 </h1><a href="https://www.linkedin.com/in/shanupl/"><img src="https://img.shields.io/badge/-Vikas%20Panchal-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a></h1>
 <h1><a href="mailto:ranu542011@gmail.com"><img src="https://img.shields.io/badge/-ranu542011@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></h1>
 

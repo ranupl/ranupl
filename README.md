@@ -29,11 +29,11 @@ Here are some ideas to get you started:
   **Algorithms and problem solving**
 
 - 🌐 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![DSA](https://img.shields.io/badge/-DSA-333333?style=flat)
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=Sublime)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ## My Stats
 
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-</h1><a href="https://www.linkedin.com/in/shanupl/"><img src="https://img.shields.io/badge/-Vikas%20Panchal-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a></h1>
-<h1><a href="mailto:ranu542011@gmail.com"><img src="https://img.shields.io/badge/-ranu542011@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></h1>
+</h1><a href="https://www.linkedin.com/in/shanupl/"><img src="https://img.shields.io/badge/-Ranu%20Panchal-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a></h1>
+<h1><a href="mailto:ranupl542011@gmail.com"><img src="https://img.shields.io/badge/-ranu542011@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></h1>
 
 
